@@ -1,2 +1,4 @@
 # project-demo
-This is my project repository
+This is my project repository.
+Author - Aditya
+
